@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "terraform-state" {
- bucket = "tf-state-demo-tfcloud-2"
+ bucket = "tf-state-demo-tfcloud-3"
  acl    = "private"
 
  versioning {
